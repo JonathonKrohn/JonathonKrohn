@@ -1,6 +1,6 @@
 {
-  "homepage": "http://KingsleyUbah.github.io/harperdb-movie-generator",
-  "name": "harperdb-movie-generator",
+  "homepage": "http://JonathonKrohn.github.io/movie-generator",
+  "name": "harperdb-movies-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
