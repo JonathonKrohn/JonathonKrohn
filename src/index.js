@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import {HarperDBProvider} from 'use-harperdb'
+import { HarperDBProvider } from 'use-harperdb';
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -16,4 +17,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
