@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-generator/static/css/main.b3b8a44d.chunk.css",
-    "main.js": "/movie-generator/static/js/main.d54e4225.chunk.js",
-    "main.js.map": "/movie-generator/static/js/main.d54e4225.chunk.js.map",
-    "runtime-main.js": "/movie-generator/static/js/runtime-main.0e53db3f.js",
-    "runtime-main.js.map": "/movie-generator/static/js/runtime-main.0e53db3f.js.map",
-    "static/js/2.9a36dd78.chunk.js": "/movie-generator/static/js/2.9a36dd78.chunk.js",
-    "static/js/2.9a36dd78.chunk.js.map": "/movie-generator/static/js/2.9a36dd78.chunk.js.map",
-    "index.html": "/movie-generator/index.html",
-    "static/css/main.b3b8a44d.chunk.css.map": "/movie-generator/static/css/main.b3b8a44d.chunk.css.map",
-    "static/js/2.9a36dd78.chunk.js.LICENSE.txt": "/movie-generator/static/js/2.9a36dd78.chunk.js.LICENSE.txt"
+    "main.css": "/harperdb-movies-generator/static/css/main.b3b8a44d.chunk.css",
+    "main.js": "/harperdb-movies-generator/static/js/main.d54e4225.chunk.js",
+    "main.js.map": "/harperdb-movies-generator/static/js/main.d54e4225.chunk.js.map",
+    "runtime-main.js": "/harperdb-movies-generator/static/js/runtime-main.761905e0.js",
+    "runtime-main.js.map": "/harperdb-movies-generator/static/js/runtime-main.761905e0.js.map",
+    "static/js/2.9a36dd78.chunk.js": "/harperdb-movies-generator/static/js/2.9a36dd78.chunk.js",
+    "static/js/2.9a36dd78.chunk.js.map": "/harperdb-movies-generator/static/js/2.9a36dd78.chunk.js.map",
+    "index.html": "/harperdb-movies-generator/index.html",
+    "static/css/main.b3b8a44d.chunk.css.map": "/harperdb-movies-generator/static/css/main.b3b8a44d.chunk.css.map",
+    "static/js/2.9a36dd78.chunk.js.LICENSE.txt": "/harperdb-movies-generator/static/js/2.9a36dd78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e53db3f.js",
+    "static/js/runtime-main.761905e0.js",
     "static/js/2.9a36dd78.chunk.js",
     "static/css/main.b3b8a44d.chunk.css",
     "static/js/main.d54e4225.chunk.js"
